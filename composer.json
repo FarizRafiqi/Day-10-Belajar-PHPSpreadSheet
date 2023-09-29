@@ -1,0 +1,21 @@
+{
+  "name": "farizrafiqi/day-10-belajar-phpspreadsheet",
+  "description": "Tugas Maxy Day 10",
+  "minimum-stability": "stable",
+  "license": "proprietary",
+  "authors": [
+    {
+      "name": "Aulia EL Ihza Fariz Rafiqi",
+      "email": "auliaelihza@gmail.com"
+    }
+  ],
+  "require": {
+    "phpoffice/phpspreadsheet": "1.29.0",
+    "ext-gd": "*"
+  },
+  "config": {
+    "platform": {
+      "php": "7.4"
+    }
+  }
+}
